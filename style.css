@@ -2,8 +2,9 @@ body, html{
 	font-size: 25px;
 	font-family: 'Helvetica', sans-serif;
 	background-color: #f3f3f3;
-	margin-right: 2rem;
+	margin-top: 0.5rem;
 	margin-left: 2rem;
+	margin-right: 2rem;
 	color: #181818;
 	
 }
@@ -85,7 +86,7 @@ ul, li{
 }
 
 .keySkills{
-	margin-left: 10%;
+	margin-left: 4.6rem;
 	height: 100px;
 	
 
